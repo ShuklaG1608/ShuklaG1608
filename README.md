@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ShuklaG1608
-- 👀 I’m interested in Python, SQL
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Gaurav Shukla
+- 👀 I’m interested in Python,SQL & Web Development
+- 🌱 I’m currently learning Framworks of Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
