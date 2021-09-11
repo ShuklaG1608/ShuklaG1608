@@ -2,9 +2,7 @@
 ShuklaG1608/ShuklaG1608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Gaurav Here</h1>
+<h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Gaurav Here</h1>
 <h3 align="center">I'm a passionate Python & SQL Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
